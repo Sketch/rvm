@@ -27,7 +27,7 @@ Available commands:
       reinstall               # reinstall ruby and run gem pristine on all gems
       remove                  # remove ruby and downloaded sources
       requirements            # installs dependencies for building ruby
-      uninstall               # uninstall ruby, keeping it's sources
+      uninstall               # uninstall ruby, keeping its sources
       upgrade                 # upgrade to another ruby version, migrating gems
 
   running different ruby versions
